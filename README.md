@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de BI/Ciencia de Dados
 - 🌱 Estou estudando Python
-- 😄 Pronouns: ela/dela
+- 😄 Pronome: ela/dela
 
 
 <div align="center">
